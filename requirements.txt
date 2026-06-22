@@ -1,0 +1,9 @@
+django>=5.0,<6.0
+djangorestframework
+djangorestframework-simplejwt
+django-storages
+boto3
+psycopg2-binary
+django-cors-headers
+pillow
+gunicorn
